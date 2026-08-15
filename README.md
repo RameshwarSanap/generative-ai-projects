@@ -46,7 +46,6 @@ Implement a feedforward neural network **entirely from scratch in Python**, usin
 - Training/validation loss and accuracy curves, a confusion matrix, and sample predictions are all rendered inline in the notebook.
 
 ## Repository
-GitHub Repository Link: https://github.com/atharva134kadam/gen-ai-ass1
-
+GitHub Repository Link:https://github.com/RameshwarSanap/generative-ai-projects/blob/main/Gen_ai_Assignment_1.ipynb
 ## Declaration
 I, Rameshwar Sanap, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines.
